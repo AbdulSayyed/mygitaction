@@ -13,7 +13,7 @@
 
 - `choco install GitVersion.Portable`
 
-```
+```bash
 λ choco install GitVersion.Portable                                                                            
 Chocolatey v0.12.1                                                                                             
 Installing the following packages:                                                                             
@@ -46,4 +46,3 @@ Chocolatey installed 1/1 packages.
 - 5.11.1+Branch.support-5.x.Sha.82cbf2c587897ed9906624f3b55f200ac99f084e
 - Its help can be generated to understand how it helps us in building semantic versioning
 
-### 
