@@ -37,9 +37,4 @@ jobs:
       ################################
       - name: Run Super-Linter
         uses: github/super-linter@v4.10.0
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          VALIDATE_MARKDOWN: true
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_WORKSPACE: mygitaction/mygitaction
+       
